@@ -1,5 +1,5 @@
 # hello_world
-demo repo
+demo repo, with a new script folder
 
 ### 01. Project Outline ###
 In this step we will add some materials to explain how to commit to a repository from the web browser
